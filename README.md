@@ -3,7 +3,6 @@
 A modern, pixel-perfect, and fully responsive frontend clone of Amazon built using semantic HTML5 and modern CSS3.
 
 [![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white)](https://imaduuu.github.io/Amazon-clone/)
-[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImAduuu/Amazon-clone)
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)

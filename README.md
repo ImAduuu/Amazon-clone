@@ -1,27 +1,46 @@
-# Amazon-Clone
-The Amazon Clone Website is a fully functional e-commerce platform built using HTML and CSS. It replicates the familiar layout and design of Amazon, allowing users to browse and purchase products. The website features a responsive design, intuitive navigation, and a seamless shopping experience, all achieved using only HTML and CSS.
+# 🛒 Amazon Clone
 
-The provided code represents the HTML and CSS code for an Amazon clone website. The code includes the header, search bar, navigation menu, hero section, shop section, and footer.
+A modern, pixel-perfect, and fully responsive frontend clone of Amazon built using semantic HTML5 and modern CSS3.
 
-The HTML code defines the structure of the webpage, including the header, search bar, navigation menu, hero section, shop section, and footer. The CSS code contains styles to customize the appearance of various elements on the webpage.
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=githubpages&logoColor=white)](https://imaduuu.github.io/Amazon-clone/)
+[![Repository](https://img.shields.io/badge/GitHub-Repository-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ImAduuu/Amazon-clone)
 
-Here is a breakdown of the different sections in the code:
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
+![Responsive](https://img.shields.io/badge/Responsive-42B883?style=flat&logo=authy&logoColor=white)
 
-1. Header:
-* Contains the Amazon logo, delivery address, search bar, language selection, sign-in information, and cart icon.
+---
 
-2. Bottom Panel:
-* ntains links to different sections such as Today's Deals, Customer Service, Registry, Gift Cards, and Sell.
+## 🌐 Project Links
 
-3. Heor Section:
-* Display a message witha link to the Amazon India website.
+- 🚀 **Live Demo:** [imaduuu.github.io/Amazon-clone/](https://imaduuu.github.io/Amazon-clone/)
+- 💻 **Source Code Repository:** [github.com/ImAduuu/Amazon-clone](https://github.com/ImAduuu/Amazon-clone)
 
-4. Shop Section:
-* Displays different product categories with images and "See More" links.
+---
 
-5. Footer:
-* Contains multiple sections with links to various pages and information about Amazon.
+## ✨ Features
 
-The CSS code defines the styles for different elements in the webpage, such as the header, search bar, bottom panel, hero section, shop section, and footer.
+- 📱 **100% Mobile & Desktop Responsive:** Dynamic grid layout powered by CSS Grid & Flexbox.
+- 🔍 **Interactive Navigation Header:** Department selector dropdown, custom search bar, location status, and hover interactions.
+- 🛍️ **Modern Product Grid:** Clean category cards with subtle lift-on-hover animations.
+- 🧭 **Multi-Tier Footer & Navigation:** Detailed multi-column links and secondary navigation bar.
+- 🌐 **GitHub Pages Ready:** Configured with relative paths (`./Images/...`) for reliable hosting.
 
-Note: The code references external resources such as font files and images. Make sure to have the necessary files in the specified locations or update the file paths accordingly for the website to display correctly.
+---
+
+## 🛠️ Tech Stack
+
+- **HTML5** (Semantic layout and web accessibility)
+- **CSS3** (CSS Grid, Flexbox, Custom Variables, Media Queries)
+- **Font Awesome 6** & **Google Fonts** (Icons & Modern Typography)
+
+---
+
+## 📁 Project Structure
+
+```text
+Amazon-clone/
+├── Images/         # Product images, logo, and banner assets
+├── index.html      # Main HTML structure
+├── style.css       # Responsive custom CSS styles
+└── README.md       # Project documentation
